@@ -1,5 +1,4 @@
 package com.exemplo;
-import com.Ingredientes;
 
 public class SugestaoLac extends Sugestao {
 
@@ -18,3 +17,4 @@ public class SugestaoLac extends Sugestao {
         System.out.println("\nResposta da IA:\n" + resposta);
     }
 }
+
