@@ -6,4 +6,5 @@ Esse projeto me permitiu praticar conceitos de POO em Java como herança,abstra�
 nesse caso foi usado o Langchain4j junto com o Ollama, uma escolha segura e gratuita e foi escolhido a ferramenta Maven para gerenciar as dependências.
 <img width="1195" height="734" alt="image" src="https://github.com/user-attachments/assets/dce8b27a-44dc-4b47-af29-65447247ab5c" />
 Para usar o codigo no seu computador será necessário baixar os arquivos da maneira como estão apresentados em cada pasta, além de ter que baixo o modelo da Ollama que esta sendo
-utilizado, nesse caso o llama3.2:1b, e também fazer a instalação do Maven.
+utilizado, nesse caso o llama3.2:1b, e também fazer a instalação do Maven. Observação: nesse projeto em específico o aquivo json não é utilizado, pois o modelo que eu ultilizei não necessita 
+de umna API key, porém foi colocado junto ao projeto caso queija utilizar outro modelo que necessite disso.
