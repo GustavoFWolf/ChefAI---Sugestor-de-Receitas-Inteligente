@@ -1,6 +1,5 @@
 package com.exemplo;
 import java.util.Scanner;
-import com.Ingredientes;
 
 public class Main {
     public static void main(String[] args) {
@@ -86,3 +85,4 @@ public class Main {
         }
     }
 }
+
