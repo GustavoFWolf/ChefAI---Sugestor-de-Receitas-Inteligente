@@ -1,5 +1,4 @@
 package com.exemplo;
-import com.Ingredientes;
 import dev.langchain4j.model.chat.ChatLanguageModel;
 import dev.langchain4j.model.ollama.OllamaChatModel;
 
@@ -24,3 +23,4 @@ public abstract class Sugestao {
 
     public abstract void fazerSujestao();
 }
+
